@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.log
+**/deploy.bat
+**/deploy.ps1
+**/deploy_settings.json
+**/README_AUTO_DEPLOY.md
